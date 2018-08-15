@@ -13,7 +13,7 @@ DevC++ and openCV are required to run this project.
 You can skip this step if you have DevCpp and OpenCV installed and integrated.
 - [DevC++](http://www.bloodshed.net/dev/devcpp.html)
   1. Windows: 
-    - If you want to see if everything is run smoothly use [Installing Guide](https://chortle.ccsu.edu/bloodshed/howtogl.html)
+    - If you want to see if everything is running smoothly use [Installing Guide](https://chortle.ccsu.edu/bloodshed/howtogl.html)
 - [OpenCV](https://opencv.org/)
   1. Windows:
     - Download the pre-complied zip file from the official website, extract to anywhere you like, e.g. "c:\\dev\\opencv"
