@@ -1,15 +1,3 @@
-# Colour_Sensitive_Keypad_Touchpad
-Real-Time virtual platform for Keypad &amp; Touchpad
-
-IDE Used - Dev-Cpp
-Programming Language - C++
-Additional Libraries - OpenCV, WindowsAPI
-
-Performing integration of OpenCV with Dev-Cpp in Windows - Refer "Integrating OpenCV and DEV C.pdf"
-For Kick Starting your journey with OpenCV - Refer "opencv_cheatsheet.pdf"
-Project Implementation Details and working principles - Refer "Project_report.pdf"
-Source Code for Implementaion of project - Refer "Touchpad_Keypad_Implementation.cpp"
-
 # Colour Sensitive Keypad and Touchpad
 
 The scope of this project is to develop an environment that will work as touchpad &amp; touch sensitive keypad for a computer system.
@@ -29,10 +17,7 @@ You can skip this step if you have DevCpp and OpenCV installed and integrated.
 - [OpenCV](https://opencv.org/)
   1. Windows:
     - Download the pre-complied zip file from the official website, extract to anywhere you like, e.g. "c:\\dev\\opencv"
- 
-```
-Give examples
-```
+    
 ### Integrating OpenCV and DevC++
 
 You can skip it if you have done it already
