@@ -21,16 +21,16 @@ You can skip this step if you have DevCpp and OpenCV installed and integrated.
 ### Integrating OpenCV and DevC++
 
 You can skip it if you have done it already
-- Refer to [Integrating OpenCV and DEV C.pdf]()
+- Refer to [Integrating OpenCV and DEV C.pdf](Integrating OpenCV and DEV C.pdf)
 
 ## Running the tests
 
 Run one of the programs from [OpenCV tutorial](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html) to check the setup
-For fun use some of the functions from [opencv_cheatsheet.pdf]()
+For fun use some of the functions from [opencv_cheatsheet.pdf](opencv_cheatsheet.pdf)
 
 ## Deployment
 
-Use [Project_report.pdf]() for setting up the system and then use [Touchpad_Keypad_Implementation.cpp]() to implement it 
+Use [Project_report.pdf](Project_report.pdf) for setting up the system and then use [Touchpad_Keypad_Implementation.cpp](Touchpad_Keypad_Implementation.cpp) to implement it 
 
 ## Contributing
 
