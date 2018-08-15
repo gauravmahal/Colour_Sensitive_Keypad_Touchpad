@@ -34,7 +34,7 @@ Use [Project_report.pdf]() for setting up the system and then use [Touchpad_Keyp
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/gauravmahal/Colour_Sensitive_Keypad_Touchpad/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -48,7 +48,7 @@ See also the list of [contributors](https://github.com/gauravmahal/Colour_Sensit
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
